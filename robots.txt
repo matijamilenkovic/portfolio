@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matijamilenkovic.github.io/portfolio/sitemap.xml
